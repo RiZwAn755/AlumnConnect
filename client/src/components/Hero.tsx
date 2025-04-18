@@ -12,7 +12,7 @@ const Hero: React.FC = () => {
           <div className="sm:text-center md:max-w-2xl md:mx-auto lg:col-span-6 lg:text-left">
             <h1>
               <span className="block text-sm font-semibold uppercase tracking-wide text-indigo-600 mb-1">
-                Your Alumni Network
+                you are gay
               </span>
               <span className="mt-1 block text-4xl tracking-tight font-extrabold sm:text-5xl xl:text-6xl">
                 <span className="text-gray-900">Reconnect, Network, </span>
